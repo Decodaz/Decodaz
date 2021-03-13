@@ -2,7 +2,7 @@
 - 👀 I’m interested in LUA, JS and TS
 - 🌱 I’m currently learning TS and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me decodaz@ravenstate.de
 
 <!---
 Decodaz/Decodaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
