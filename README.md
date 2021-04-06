@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Decodaz
-- 👀 I’m interested in LUA, JS and TS
-- 🌱 I’m currently learning TS and JS
-- 💞️ I’m looking to collaborate on FiveM Scripts and Alt:V Scripts
 - 📫 How to reach me decodaz@ravenstate.de
 
 <!---
